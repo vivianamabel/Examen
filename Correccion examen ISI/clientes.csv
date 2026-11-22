@@ -1,0 +1,101 @@
+id,nombre,ciudad,tipo_cliente
+C001,Sofía Villacís,Quito,Docente
+C002,Daniel Vega,Quito,Docente
+C003,Nicolás Sánchez,Sangolquí,Estudiante
+C004,Daniel Romero,Quito,Estudiante
+C005,Sebastián Yánez,Cayambe,Estudiante
+C006,Elena Vega,Quito,Estudiante
+C007,Ana Benítez,Sangolquí,Estudiante
+C008,Sebastián Mena,Tabacundo,Docente
+C009,Sofía Cevallos,Quito,Estudiante
+C010,Emilio Aguirre,Quito,Estudiante
+C011,Isabel Guamán,Quito,Estudiante
+C012,Daniel Mena,Quito,Estudiante
+C013,Martín Mora,Quito,Estudiante
+C014,Emilio Cárdenas,Latacunga,Docente
+C015,Isabel Salazar,Quito,Personal administrativo
+C016,Mateo Guamán,Sangolquí,Docente
+C017,Elena Mora,Cayambe,Estudiante
+C018,Elena Villacís,Quito,Estudiante
+C019,Fernanda Villacís,Quito,Estudiante
+C020,Daniel Salazar,Quito,Estudiante
+C021,Carolina Cevallos,Quito,Estudiante
+C022,Elena Sánchez,Quito,Estudiante
+C023,Adriana Mena,Machachi,Estudiante
+C024,Alejandra Cárdenas,Quito,Estudiante
+C025,Adriana Mora,Quito,Estudiante
+C026,Camila Guamán,Quito,Estudiante
+C027,Sofía Vega,Quito,Docente
+C028,Alejandra Benítez,Quito,Personal administrativo
+C029,Paula Villacís,Sangolquí,Estudiante
+C030,Carolina Guamán,Quito,Estudiante
+C031,Lucía Salazar,Quito,Estudiante
+C032,Daniel Paredes,Sangolquí,Estudiante
+C033,María José Salazar,Tabacundo,Estudiante
+C034,Nicolás Mora,Cayambe,Estudiante
+C035,Fernanda Jácome,Quito,Personal administrativo
+C036,Emilio Cevallos,Cayambe,Estudiante
+C037,Carolina Naranjo,Quito,Personal administrativo
+C038,Nicolás Cando,Quito,Personal administrativo
+C039,Sofía Cárdenas,Quito,Estudiante
+C040,Joaquín Cando,Quito,Estudiante
+C041,Nicolás Jácome,Latacunga,Estudiante
+C042,Alejandra Salazar,Sangolquí,Estudiante
+C043,Santiago Salazar,Cayambe,Estudiante
+C044,Camila Villacís,Machachi,Personal administrativo
+C045,Martín Aguirre,Quito,Personal administrativo
+C046,Mateo Paredes,Sangolquí,Estudiante
+C047,Ana Salazar,Quito,Estudiante
+C048,Adriana Cando,Tabacundo,Docente
+C049,Gabriel Benítez,Tabacundo,Estudiante
+C050,Martín Vega,Quito,Estudiante
+C051,Carolina Cárdenas,Quito,Estudiante
+C052,María José Paredes,Quito,Docente
+C053,Santiago Mora,Quito,Estudiante
+C054,Andrés Viteri,Sangolquí,Estudiante
+C055,Sofía Romero,Machachi,Personal administrativo
+C056,Diego Guamán,Sangolquí,Docente
+C057,Ana Sánchez,Quito,Estudiante
+C058,Lucía Romero,Quito,Estudiante
+C059,Camila Romero,Quito,Estudiante
+C060,Carolina Yánez,Quito,Estudiante
+C061,Gabriel Viteri,Quito,Estudiante
+C062,Joaquín Jácome,Quito,Estudiante
+C063,Emilio Naranjo,Quito,Personal administrativo
+C064,María José Cando,Quito,Estudiante
+C065,Joaquín Romero,Quito,Estudiante
+C066,Gabriel Guamán,Quito,Estudiante
+C067,Joaquín Aguirre,Quito,Estudiante
+C068,Sebastián Paredes,Cayambe,Estudiante
+C069,Carolina Aguirre,Sangolquí,Docente
+C070,Diego Mena,Latacunga,Estudiante
+C071,Andrés Sánchez,Quito,Personal administrativo
+C072,Daniel Cando,Quito,Estudiante
+C073,Andrés Romero,Cayambe,Estudiante
+C074,Daniel Aguirre,Machachi,Estudiante
+C075,Emilio Guamán,Quito,Estudiante
+C076,Martín Sánchez,Quito,Estudiante
+C077,Alejandra Cando,Tabacundo,Estudiante
+C078,Martín Salazar,Quito,Estudiante
+C079,Diego Villacís,Machachi,Estudiante
+C080,Joaquín Vega,Quito,Estudiante
+C081,Paula Salazar,Quito,Personal administrativo
+C082,Valeria Guamán,Quito,Estudiante
+C083,Martín Cárdenas,Latacunga,Estudiante
+C084,Valeria Mora,Quito,Docente
+C085,María José Yánez,Quito,Personal administrativo
+C086,Adriana Guamán,Machachi,Docente
+C087,Alejandra Jácome,Machachi,Docente
+C088,Mateo Cando,Sangolquí,Estudiante
+C089,Ana Viteri,Sangolquí,Docente
+C090,Valeria Yánez,Quito,Estudiante
+C091,María José Villacís,Sangolquí,Estudiante
+C092,Gabriel Yánez,Quito,Docente
+C093,Sofía Salazar,Quito,Estudiante
+C094,Paula Guamán,Machachi,Estudiante
+C095,Lucía Aguirre,Quito,Estudiante
+C096,Javier Cárdenas,Quito,Estudiante
+C097,Sebastián Guamán,Quito,Estudiante
+C098,Gabriel Cárdenas,Quito,Estudiante
+C099,Carolina Mora,Quito,Estudiante
+C100,Andrés Salazar,Sangolquí,Docente

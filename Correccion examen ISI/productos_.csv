@@ -1,0 +1,401 @@
+id_producto,producto,categoria,precio_lista
+P07,Resaltador,Escritura,1.10
+P12,Paquete de fundas A4,Archivo,2.10
+P13,Regla de 30 cm,Accesorios,0.80
+P05,Esferográfico azul,Escritura,0.60
+P06,Lápiz HB,Escritura,0.40
+P03,Paquete de fichas,Papel y cuadernos,1.25
+P01,Cuaderno A4,Papel y cuadernos,2.50
+P11,Sobre manila,Archivo,0.35
+P10,Archivador A4,Archivo,3.95
+P09,Carpeta con elástico,Archivo,1.75
+P14,Tijera,Accesorios,2.20
+P08,Marcador permanente,Escritura,1.35
+P02,Resma de papel A4,Papel y cuadernos,5.75
+P04,Cuaderno de dibujo,Papel y cuadernos,3.40
+P15,Calculadora científica,Accesorios,22.90
+P016,Cuaderno cuadriculado A5 (24 hojas),Papel y cuadernos,1.00
+P017,Cuaderno cuadriculado A5 (32 hojas),Papel y cuadernos,1.16
+P018,Cuaderno cuadriculado A5 (40 hojas),Papel y cuadernos,1.32
+P019,Cuaderno cuadriculado A5 (48 hojas),Papel y cuadernos,1.48
+P020,Cuaderno cuadriculado A5 (50 hojas),Papel y cuadernos,1.64
+P021,Cuaderno cuadriculado A5 (60 hojas),Papel y cuadernos,1.80
+P022,Cuaderno cuadriculado A5 (64 hojas),Papel y cuadernos,1.96
+P023,Cuaderno cuadriculado A5 (80 hojas),Papel y cuadernos,2.12
+P024,Cuaderno cuadriculado A5 (96 hojas),Papel y cuadernos,2.28
+P025,Cuaderno cuadriculado A5 (100 hojas),Papel y cuadernos,2.44
+P026,Cuaderno cuadriculado A5 (120 hojas),Papel y cuadernos,2.60
+P027,Cuaderno rayado A4 (24 hojas),Papel y cuadernos,1.25
+P028,Cuaderno rayado A4 (32 hojas),Papel y cuadernos,1.44
+P029,Cuaderno rayado A4 (40 hojas),Papel y cuadernos,1.63
+P030,Cuaderno rayado A4 (48 hojas),Papel y cuadernos,1.82
+P031,Cuaderno rayado A4 (50 hojas),Papel y cuadernos,2.01
+P032,Cuaderno rayado A4 (60 hojas),Papel y cuadernos,2.20
+P033,Cuaderno rayado A4 (64 hojas),Papel y cuadernos,2.39
+P034,Cuaderno rayado A4 (80 hojas),Papel y cuadernos,2.58
+P035,Cuaderno rayado A4 (96 hojas),Papel y cuadernos,2.77
+P036,Cuaderno rayado A4 (100 hojas),Papel y cuadernos,2.96
+P037,Cuaderno rayado A4 (120 hojas),Papel y cuadernos,3.15
+P038,Cuaderno espiral punteado (24 hojas),Papel y cuadernos,1.40
+P039,Cuaderno espiral punteado (32 hojas),Papel y cuadernos,1.60
+P040,Cuaderno espiral punteado (40 hojas),Papel y cuadernos,1.80
+P041,Cuaderno espiral punteado (48 hojas),Papel y cuadernos,2.00
+P042,Cuaderno espiral punteado (50 hojas),Papel y cuadernos,2.20
+P043,Cuaderno espiral punteado (60 hojas),Papel y cuadernos,2.40
+P044,Cuaderno espiral punteado (64 hojas),Papel y cuadernos,2.60
+P045,Cuaderno espiral punteado (80 hojas),Papel y cuadernos,2.80
+P046,Cuaderno espiral punteado (96 hojas),Papel y cuadernos,3.00
+P047,Cuaderno espiral punteado (100 hojas),Papel y cuadernos,3.20
+P048,Cuaderno espiral punteado (120 hojas),Papel y cuadernos,3.40
+P049,Bloc de notas liso (24 hojas),Papel y cuadernos,0.85
+P050,Bloc de notas liso (32 hojas),Papel y cuadernos,0.97
+P051,Bloc de notas liso (40 hojas),Papel y cuadernos,1.09
+P052,Bloc de notas liso (48 hojas),Papel y cuadernos,1.21
+P053,Bloc de notas liso (50 hojas),Papel y cuadernos,1.33
+P054,Bloc de notas liso (60 hojas),Papel y cuadernos,1.45
+P055,Bloc de notas liso (64 hojas),Papel y cuadernos,1.57
+P056,Bloc de notas liso (80 hojas),Papel y cuadernos,1.69
+P057,Bloc de notas liso (96 hojas),Papel y cuadernos,1.81
+P058,Bloc de notas liso (100 hojas),Papel y cuadernos,1.93
+P059,Bloc de notas liso (120 hojas),Papel y cuadernos,2.05
+P060,Bloc de papel milimetrado (24 hojas),Papel y cuadernos,1.15
+P061,Bloc de papel milimetrado (32 hojas),Papel y cuadernos,1.30
+P062,Bloc de papel milimetrado (40 hojas),Papel y cuadernos,1.45
+P063,Bloc de papel milimetrado (48 hojas),Papel y cuadernos,1.60
+P064,Bloc de papel milimetrado (50 hojas),Papel y cuadernos,1.75
+P065,Bloc de papel milimetrado (60 hojas),Papel y cuadernos,1.90
+P066,Bloc de papel milimetrado (64 hojas),Papel y cuadernos,2.05
+P067,Bloc de papel milimetrado (80 hojas),Papel y cuadernos,2.20
+P068,Bloc de papel milimetrado (96 hojas),Papel y cuadernos,2.35
+P069,Bloc de papel milimetrado (100 hojas),Papel y cuadernos,2.50
+P070,Bloc de papel milimetrado (120 hojas),Papel y cuadernos,2.65
+P071,Cuaderno de laboratorio (24 hojas),Papel y cuadernos,1.45
+P072,Cuaderno de laboratorio (32 hojas),Papel y cuadernos,1.65
+P073,Cuaderno de laboratorio (40 hojas),Papel y cuadernos,1.85
+P074,Cuaderno de laboratorio (48 hojas),Papel y cuadernos,2.05
+P075,Cuaderno de laboratorio (50 hojas),Papel y cuadernos,2.25
+P076,Cuaderno de laboratorio (60 hojas),Papel y cuadernos,2.45
+P077,Cuaderno de laboratorio (64 hojas),Papel y cuadernos,2.65
+P078,Cuaderno de laboratorio (80 hojas),Papel y cuadernos,2.85
+P079,Cuaderno de laboratorio (96 hojas),Papel y cuadernos,3.05
+P080,Cuaderno de laboratorio (100 hojas),Papel y cuadernos,3.25
+P081,Cuaderno de laboratorio (120 hojas),Papel y cuadernos,3.45
+P082,Papel bond reciclado A4 (24 hojas),Papel y cuadernos,0.80
+P083,Papel bond reciclado A4 (32 hojas),Papel y cuadernos,0.94
+P084,Papel bond reciclado A4 (40 hojas),Papel y cuadernos,1.08
+P085,Papel bond reciclado A4 (48 hojas),Papel y cuadernos,1.22
+P086,Papel bond reciclado A4 (50 hojas),Papel y cuadernos,1.36
+P087,Papel bond reciclado A4 (60 hojas),Papel y cuadernos,1.50
+P088,Papel bond reciclado A4 (64 hojas),Papel y cuadernos,1.64
+P089,Papel bond reciclado A4 (80 hojas),Papel y cuadernos,1.78
+P090,Papel bond reciclado A4 (96 hojas),Papel y cuadernos,1.92
+P091,Papel bond reciclado A4 (100 hojas),Papel y cuadernos,2.06
+P092,Papel bond reciclado A4 (120 hojas),Papel y cuadernos,2.20
+P093,Cartulina escolar (azul),Papel y cuadernos,0.28
+P094,Cartulina escolar (negro),Papel y cuadernos,0.28
+P095,Cartulina escolar (rojo),Papel y cuadernos,0.28
+P096,Cartulina escolar (verde),Papel y cuadernos,0.28
+P097,Cartulina escolar (naranja),Papel y cuadernos,0.28
+P098,Cartulina escolar (amarillo),Papel y cuadernos,0.28
+P099,Cartulina escolar (violeta),Papel y cuadernos,0.28
+P100,Cartulina escolar (celeste),Papel y cuadernos,0.28
+P101,Cartulina escolar (rosa),Papel y cuadernos,0.28
+P102,Cartulina escolar (gris),Papel y cuadernos,0.28
+P103,Cartulina escolar (turquesa),Papel y cuadernos,0.28
+P104,Papel crepé (azul),Papel y cuadernos,0.45
+P105,Papel crepé (negro),Papel y cuadernos,0.45
+P106,Papel crepé (rojo),Papel y cuadernos,0.45
+P107,Papel crepé (verde),Papel y cuadernos,0.45
+P108,Papel crepé (naranja),Papel y cuadernos,0.45
+P109,Papel crepé (amarillo),Papel y cuadernos,0.45
+P110,Papel crepé (violeta),Papel y cuadernos,0.45
+P111,Papel crepé (celeste),Papel y cuadernos,0.45
+P112,Papel crepé (rosa),Papel y cuadernos,0.45
+P113,Papel crepé (gris),Papel y cuadernos,0.45
+P114,Papel crepé (turquesa),Papel y cuadernos,0.45
+P115,Esferográfico de gel (azul),Escritura,0.85
+P116,Esferográfico de gel (negro),Escritura,0.85
+P117,Esferográfico de gel (rojo),Escritura,0.85
+P118,Esferográfico de gel (verde),Escritura,0.85
+P119,Esferográfico de gel (naranja),Escritura,0.85
+P120,Esferográfico de gel (amarillo),Escritura,0.85
+P121,Esferográfico de gel (violeta),Escritura,0.85
+P122,Esferográfico de gel (celeste),Escritura,0.85
+P123,Esferográfico de gel (rosa),Escritura,0.85
+P124,Esferográfico de gel (gris),Escritura,0.85
+P125,Esferográfico de gel (turquesa),Escritura,0.85
+P126,Marcador para pizarra (azul),Escritura,1.05
+P127,Marcador para pizarra (negro),Escritura,1.05
+P128,Marcador para pizarra (rojo),Escritura,1.05
+P129,Marcador para pizarra (verde),Escritura,1.05
+P130,Marcador para pizarra (naranja),Escritura,1.05
+P131,Marcador para pizarra (amarillo),Escritura,1.05
+P132,Marcador para pizarra (violeta),Escritura,1.05
+P133,Marcador para pizarra (celeste),Escritura,1.05
+P134,Marcador para pizarra (rosa),Escritura,1.05
+P135,Marcador para pizarra (gris),Escritura,1.05
+P136,Marcador para pizarra (turquesa),Escritura,1.05
+P137,Marcador de punta fina (azul),Escritura,0.95
+P138,Marcador de punta fina (negro),Escritura,0.95
+P139,Marcador de punta fina (rojo),Escritura,0.95
+P140,Marcador de punta fina (verde),Escritura,0.95
+P141,Marcador de punta fina (naranja),Escritura,0.95
+P142,Marcador de punta fina (amarillo),Escritura,0.95
+P143,Marcador de punta fina (violeta),Escritura,0.95
+P144,Marcador de punta fina (celeste),Escritura,0.95
+P145,Marcador de punta fina (rosa),Escritura,0.95
+P146,Marcador de punta fina (gris),Escritura,0.95
+P147,Marcador de punta fina (turquesa),Escritura,0.95
+P148,Resaltador pastel (azul),Escritura,1.20
+P149,Resaltador pastel (negro),Escritura,1.20
+P150,Resaltador pastel (rojo),Escritura,1.20
+P151,Resaltador pastel (verde),Escritura,1.20
+P152,Resaltador pastel (naranja),Escritura,1.20
+P153,Resaltador pastel (amarillo),Escritura,1.20
+P154,Resaltador pastel (violeta),Escritura,1.20
+P155,Resaltador pastel (celeste),Escritura,1.20
+P156,Resaltador pastel (rosa),Escritura,1.20
+P157,Resaltador pastel (gris),Escritura,1.20
+P158,Resaltador pastel (turquesa),Escritura,1.20
+P159,Lápices de colores (paquete de 2),Escritura,0.55
+P160,Lápices de colores (paquete de 3),Escritura,0.87
+P161,Lápices de colores (paquete de 4),Escritura,1.19
+P162,Lápices de colores (paquete de 5),Escritura,1.51
+P163,Lápices de colores (paquete de 6),Escritura,1.83
+P164,Lápices de colores (paquete de 8),Escritura,2.15
+P165,Lápices de colores (paquete de 10),Escritura,2.47
+P166,Lápices de colores (paquete de 12),Escritura,2.79
+P167,Lápices de colores (paquete de 15),Escritura,3.11
+P168,Lápices de colores (paquete de 20),Escritura,3.43
+P169,Lápices de colores (paquete de 24),Escritura,3.75
+P170,Crayones escolares (paquete de 2),Escritura,0.60
+P171,Crayones escolares (paquete de 3),Escritura,0.88
+P172,Crayones escolares (paquete de 4),Escritura,1.16
+P173,Crayones escolares (paquete de 5),Escritura,1.44
+P174,Crayones escolares (paquete de 6),Escritura,1.72
+P175,Crayones escolares (paquete de 8),Escritura,2.00
+P176,Crayones escolares (paquete de 10),Escritura,2.28
+P177,Crayones escolares (paquete de 12),Escritura,2.56
+P178,Crayones escolares (paquete de 15),Escritura,2.84
+P179,Crayones escolares (paquete de 20),Escritura,3.12
+P180,Crayones escolares (paquete de 24),Escritura,3.40
+P181,Repuestos para portaminas 0.5 mm (paquete de 2),Escritura,0.45
+P182,Repuestos para portaminas 0.5 mm (paquete de 3),Escritura,0.65
+P183,Repuestos para portaminas 0.5 mm (paquete de 4),Escritura,0.85
+P184,Repuestos para portaminas 0.5 mm (paquete de 5),Escritura,1.05
+P185,Repuestos para portaminas 0.5 mm (paquete de 6),Escritura,1.25
+P186,Repuestos para portaminas 0.5 mm (paquete de 8),Escritura,1.45
+P187,Repuestos para portaminas 0.5 mm (paquete de 10),Escritura,1.65
+P188,Repuestos para portaminas 0.5 mm (paquete de 12),Escritura,1.85
+P189,Repuestos para portaminas 0.5 mm (paquete de 15),Escritura,2.05
+P190,Repuestos para portaminas 0.5 mm (paquete de 20),Escritura,2.25
+P191,Repuestos para portaminas 0.5 mm (paquete de 24),Escritura,2.45
+P192,Bolígrafo retráctil (azul),Escritura,0.95
+P193,Bolígrafo retráctil (negro),Escritura,0.95
+P194,Bolígrafo retráctil (rojo),Escritura,0.95
+P195,Bolígrafo retráctil (verde),Escritura,0.95
+P196,Bolígrafo retráctil (naranja),Escritura,0.95
+P197,Bolígrafo retráctil (amarillo),Escritura,0.95
+P198,Bolígrafo retráctil (violeta),Escritura,0.95
+P199,Bolígrafo retráctil (celeste),Escritura,0.95
+P200,Bolígrafo retráctil (rosa),Escritura,0.95
+P201,Bolígrafo retráctil (gris),Escritura,0.95
+P202,Bolígrafo retráctil (turquesa),Escritura,0.95
+P203,Tinta para marcador recargable (azul),Escritura,1.70
+P204,Tinta para marcador recargable (negro),Escritura,1.70
+P205,Tinta para marcador recargable (rojo),Escritura,1.70
+P206,Tinta para marcador recargable (verde),Escritura,1.70
+P207,Tinta para marcador recargable (naranja),Escritura,1.70
+P208,Tinta para marcador recargable (amarillo),Escritura,1.70
+P209,Tinta para marcador recargable (violeta),Escritura,1.70
+P210,Tinta para marcador recargable (celeste),Escritura,1.70
+P211,Tinta para marcador recargable (rosa),Escritura,1.70
+P212,Tinta para marcador recargable (gris),Escritura,1.70
+P213,Tinta para marcador recargable (turquesa),Escritura,1.70
+P214,Carpeta de cartulina A4 (azul),Archivo,0.50
+P215,Carpeta de cartulina A4 (negro),Archivo,0.50
+P216,Carpeta de cartulina A4 (rojo),Archivo,0.50
+P217,Carpeta de cartulina A4 (verde),Archivo,0.50
+P218,Carpeta de cartulina A4 (naranja),Archivo,0.50
+P219,Carpeta de cartulina A4 (amarillo),Archivo,0.50
+P220,Carpeta de cartulina A4 (violeta),Archivo,0.50
+P221,Carpeta de cartulina A4 (celeste),Archivo,0.50
+P222,Carpeta de cartulina A4 (rosa),Archivo,0.50
+P223,Carpeta de cartulina A4 (gris),Archivo,0.50
+P224,Carpeta de cartulina A4 (turquesa),Archivo,0.50
+P225,Carpeta plástica A4 (azul),Archivo,0.85
+P226,Carpeta plástica A4 (negro),Archivo,0.85
+P227,Carpeta plástica A4 (rojo),Archivo,0.85
+P228,Carpeta plástica A4 (verde),Archivo,0.85
+P229,Carpeta plástica A4 (naranja),Archivo,0.85
+P230,Carpeta plástica A4 (amarillo),Archivo,0.85
+P231,Carpeta plástica A4 (violeta),Archivo,0.85
+P232,Carpeta plástica A4 (celeste),Archivo,0.85
+P233,Carpeta plástica A4 (rosa),Archivo,0.85
+P234,Carpeta plástica A4 (gris),Archivo,0.85
+P235,Carpeta plástica A4 (turquesa),Archivo,0.85
+P236,Carpeta de presentación con clip (azul),Archivo,1.40
+P237,Carpeta de presentación con clip (negro),Archivo,1.40
+P238,Carpeta de presentación con clip (rojo),Archivo,1.40
+P239,Carpeta de presentación con clip (verde),Archivo,1.40
+P240,Carpeta de presentación con clip (naranja),Archivo,1.40
+P241,Carpeta de presentación con clip (amarillo),Archivo,1.40
+P242,Carpeta de presentación con clip (violeta),Archivo,1.40
+P243,Carpeta de presentación con clip (celeste),Archivo,1.40
+P244,Carpeta de presentación con clip (rosa),Archivo,1.40
+P245,Carpeta de presentación con clip (gris),Archivo,1.40
+P246,Carpeta de presentación con clip (turquesa),Archivo,1.40
+P247,Archivador de palanca A4 (azul),Archivo,3.50
+P248,Archivador de palanca A4 (negro),Archivo,3.50
+P249,Archivador de palanca A4 (rojo),Archivo,3.50
+P250,Archivador de palanca A4 (verde),Archivo,3.50
+P251,Archivador de palanca A4 (naranja),Archivo,3.50
+P252,Archivador de palanca A4 (amarillo),Archivo,3.50
+P253,Archivador de palanca A4 (violeta),Archivo,3.50
+P254,Archivador de palanca A4 (celeste),Archivo,3.50
+P255,Archivador de palanca A4 (rosa),Archivo,3.50
+P256,Archivador de palanca A4 (gris),Archivo,3.50
+P257,Archivador de palanca A4 (turquesa),Archivo,3.50
+P258,Separadores de índice A4 (paquete de 2),Archivo,0.75
+P259,Separadores de índice A4 (paquete de 3),Archivo,0.95
+P260,Separadores de índice A4 (paquete de 4),Archivo,1.15
+P261,Separadores de índice A4 (paquete de 5),Archivo,1.35
+P262,Separadores de índice A4 (paquete de 6),Archivo,1.55
+P263,Separadores de índice A4 (paquete de 8),Archivo,1.75
+P264,Separadores de índice A4 (paquete de 10),Archivo,1.95
+P265,Separadores de índice A4 (paquete de 12),Archivo,2.15
+P266,Separadores de índice A4 (paquete de 15),Archivo,2.35
+P267,Separadores de índice A4 (paquete de 20),Archivo,2.55
+P268,Separadores de índice A4 (paquete de 24),Archivo,2.75
+P269,Protectores transparentes A4 (paquete de 2),Archivo,0.50
+P270,Protectores transparentes A4 (paquete de 3),Archivo,0.74
+P271,Protectores transparentes A4 (paquete de 4),Archivo,0.98
+P272,Protectores transparentes A4 (paquete de 5),Archivo,1.22
+P273,Protectores transparentes A4 (paquete de 6),Archivo,1.46
+P274,Protectores transparentes A4 (paquete de 8),Archivo,1.70
+P275,Protectores transparentes A4 (paquete de 10),Archivo,1.94
+P276,Protectores transparentes A4 (paquete de 12),Archivo,2.18
+P277,Protectores transparentes A4 (paquete de 15),Archivo,2.42
+P278,Protectores transparentes A4 (paquete de 20),Archivo,2.66
+P279,Protectores transparentes A4 (paquete de 24),Archivo,2.90
+P280,Sobres de seguridad A5 (paquete de 2),Archivo,0.70
+P281,Sobres de seguridad A5 (paquete de 3),Archivo,0.91
+P282,Sobres de seguridad A5 (paquete de 4),Archivo,1.12
+P283,Sobres de seguridad A5 (paquete de 5),Archivo,1.33
+P284,Sobres de seguridad A5 (paquete de 6),Archivo,1.54
+P285,Sobres de seguridad A5 (paquete de 8),Archivo,1.75
+P286,Sobres de seguridad A5 (paquete de 10),Archivo,1.96
+P287,Sobres de seguridad A5 (paquete de 12),Archivo,2.17
+P288,Sobres de seguridad A5 (paquete de 15),Archivo,2.38
+P289,Sobres de seguridad A5 (paquete de 20),Archivo,2.59
+P290,Sobres de seguridad A5 (paquete de 24),Archivo,2.80
+P291,Etiquetas adhesivas para archivo (paquete de 2),Archivo,0.45
+P292,Etiquetas adhesivas para archivo (paquete de 3),Archivo,0.60
+P293,Etiquetas adhesivas para archivo (paquete de 4),Archivo,0.75
+P294,Etiquetas adhesivas para archivo (paquete de 5),Archivo,0.90
+P295,Etiquetas adhesivas para archivo (paquete de 6),Archivo,1.05
+P296,Etiquetas adhesivas para archivo (paquete de 8),Archivo,1.20
+P297,Etiquetas adhesivas para archivo (paquete de 10),Archivo,1.35
+P298,Etiquetas adhesivas para archivo (paquete de 12),Archivo,1.50
+P299,Etiquetas adhesivas para archivo (paquete de 15),Archivo,1.65
+P300,Etiquetas adhesivas para archivo (paquete de 20),Archivo,1.80
+P301,Etiquetas adhesivas para archivo (paquete de 24),Archivo,1.95
+P302,Portadocumentos con cierre (azul),Archivo,2.20
+P303,Portadocumentos con cierre (negro),Archivo,2.20
+P304,Portadocumentos con cierre (rojo),Archivo,2.20
+P305,Portadocumentos con cierre (verde),Archivo,2.20
+P306,Portadocumentos con cierre (naranja),Archivo,2.20
+P307,Portadocumentos con cierre (amarillo),Archivo,2.20
+P308,Portadocumentos con cierre (violeta),Archivo,2.20
+P309,Portadocumentos con cierre (celeste),Archivo,2.20
+P310,Portadocumentos con cierre (rosa),Archivo,2.20
+P311,Portadocumentos con cierre (gris),Archivo,2.20
+P312,Portadocumentos con cierre (turquesa),Archivo,2.20
+P313,Regla flexible (10 cm),Accesorios,0.55
+P314,Regla flexible (12 cm),Accesorios,0.67
+P315,Regla flexible (15 cm),Accesorios,0.79
+P316,Regla flexible (18 cm),Accesorios,0.91
+P317,Regla flexible (20 cm),Accesorios,1.03
+P318,Regla flexible (25 cm),Accesorios,1.15
+P319,Regla flexible (30 cm),Accesorios,1.27
+P320,Regla flexible (35 cm),Accesorios,1.39
+P321,Regla flexible (40 cm),Accesorios,1.51
+P322,Regla flexible (45 cm),Accesorios,1.63
+P323,Regla flexible (50 cm),Accesorios,1.75
+P324,Pegamento escolar líquido (20 ml),Accesorios,0.65
+P325,Pegamento escolar líquido (25 ml),Accesorios,0.79
+P326,Pegamento escolar líquido (30 ml),Accesorios,0.93
+P327,Pegamento escolar líquido (40 ml),Accesorios,1.07
+P328,Pegamento escolar líquido (50 ml),Accesorios,1.21
+P329,Pegamento escolar líquido (60 ml),Accesorios,1.35
+P330,Pegamento escolar líquido (70 ml),Accesorios,1.49
+P331,Pegamento escolar líquido (80 ml),Accesorios,1.63
+P332,Pegamento escolar líquido (100 ml),Accesorios,1.77
+P333,Pegamento escolar líquido (120 ml),Accesorios,1.91
+P334,Pegamento escolar líquido (150 ml),Accesorios,2.05
+P335,Sujetapapeles metálicos (paquete de 2),Accesorios,0.40
+P336,Sujetapapeles metálicos (paquete de 3),Accesorios,0.55
+P337,Sujetapapeles metálicos (paquete de 4),Accesorios,0.70
+P338,Sujetapapeles metálicos (paquete de 5),Accesorios,0.85
+P339,Sujetapapeles metálicos (paquete de 6),Accesorios,1.00
+P340,Sujetapapeles metálicos (paquete de 8),Accesorios,1.15
+P341,Sujetapapeles metálicos (paquete de 10),Accesorios,1.30
+P342,Sujetapapeles metálicos (paquete de 12),Accesorios,1.45
+P343,Sujetapapeles metálicos (paquete de 15),Accesorios,1.60
+P344,Sujetapapeles metálicos (paquete de 20),Accesorios,1.75
+P345,Sujetapapeles metálicos (paquete de 24),Accesorios,1.90
+P346,Pinzas sujetadocumentos (paquete de 2),Accesorios,0.50
+P347,Pinzas sujetadocumentos (paquete de 3),Accesorios,0.67
+P348,Pinzas sujetadocumentos (paquete de 4),Accesorios,0.84
+P349,Pinzas sujetadocumentos (paquete de 5),Accesorios,1.01
+P350,Pinzas sujetadocumentos (paquete de 6),Accesorios,1.18
+P351,Pinzas sujetadocumentos (paquete de 8),Accesorios,1.35
+P352,Pinzas sujetadocumentos (paquete de 10),Accesorios,1.52
+P353,Pinzas sujetadocumentos (paquete de 12),Accesorios,1.69
+P354,Pinzas sujetadocumentos (paquete de 15),Accesorios,1.86
+P355,Pinzas sujetadocumentos (paquete de 20),Accesorios,2.03
+P356,Pinzas sujetadocumentos (paquete de 24),Accesorios,2.20
+P357,Gomas de borrar blancas (paquete de 2),Accesorios,0.45
+P358,Gomas de borrar blancas (paquete de 3),Accesorios,0.65
+P359,Gomas de borrar blancas (paquete de 4),Accesorios,0.85
+P360,Gomas de borrar blancas (paquete de 5),Accesorios,1.05
+P361,Gomas de borrar blancas (paquete de 6),Accesorios,1.25
+P362,Gomas de borrar blancas (paquete de 8),Accesorios,1.45
+P363,Gomas de borrar blancas (paquete de 10),Accesorios,1.65
+P364,Gomas de borrar blancas (paquete de 12),Accesorios,1.85
+P365,Gomas de borrar blancas (paquete de 15),Accesorios,2.05
+P366,Gomas de borrar blancas (paquete de 20),Accesorios,2.25
+P367,Gomas de borrar blancas (paquete de 24),Accesorios,2.45
+P368,Cinta decorativa (azul),Accesorios,1.10
+P369,Cinta decorativa (negro),Accesorios,1.10
+P370,Cinta decorativa (rojo),Accesorios,1.10
+P371,Cinta decorativa (verde),Accesorios,1.10
+P372,Cinta decorativa (naranja),Accesorios,1.10
+P373,Cinta decorativa (amarillo),Accesorios,1.10
+P374,Cinta decorativa (violeta),Accesorios,1.10
+P375,Cinta decorativa (celeste),Accesorios,1.10
+P376,Cinta decorativa (rosa),Accesorios,1.10
+P377,Cinta decorativa (gris),Accesorios,1.10
+P378,Cinta decorativa (turquesa),Accesorios,1.10
+P379,Sacapuntas con depósito (azul),Accesorios,0.90
+P380,Sacapuntas con depósito (negro),Accesorios,0.90
+P381,Sacapuntas con depósito (rojo),Accesorios,0.90
+P382,Sacapuntas con depósito (verde),Accesorios,0.90
+P383,Sacapuntas con depósito (naranja),Accesorios,0.90
+P384,Sacapuntas con depósito (amarillo),Accesorios,0.90
+P385,Sacapuntas con depósito (violeta),Accesorios,0.90
+P386,Sacapuntas con depósito (celeste),Accesorios,0.90
+P387,Sacapuntas con depósito (rosa),Accesorios,0.90
+P388,Sacapuntas con depósito (gris),Accesorios,0.90
+P389,Sacapuntas con depósito (turquesa),Accesorios,0.90
+P390,Estuche escolar (azul),Accesorios,2.60
+P391,Estuche escolar (negro),Accesorios,2.60
+P392,Estuche escolar (rojo),Accesorios,2.60
+P393,Estuche escolar (verde),Accesorios,2.60
+P394,Estuche escolar (naranja),Accesorios,2.60
+P395,Estuche escolar (amarillo),Accesorios,2.60
+P396,Estuche escolar (violeta),Accesorios,2.60
+P397,Estuche escolar (celeste),Accesorios,2.60
+P398,Estuche escolar (rosa),Accesorios,2.60
+P399,Estuche escolar (gris),Accesorios,2.60
+P400,Estuche escolar (turquesa),Accesorios,2.60
